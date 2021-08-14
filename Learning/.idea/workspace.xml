@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e485f9b-42ae-49bb-81f2-5e057379dc26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Learning/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchron.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/operators/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/operators/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibanocci with LRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibonacci with LRU.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibanocci.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Learning-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Learning-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/basics/match_expr.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/basics/match_expr.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bVmNhvU4crtwL1dP3rseEJXymQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.match_expr">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basics.StringInter" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trait (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Trait" />
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="employeeMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="employeeMain" />
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="match_expr" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basics.match_expr" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.match_expr" />
+        <item itemvalue="Application.StringInter" />
+        <item itemvalue="Application.employeeMain" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Trait (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e485f9b-42ae-49bb-81f2-5e057379dc26" name="Default Changelist" comment="" />
+      <created>1588725596202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588725596202</updated>
+      <workItem from="1588725598849" duration="1360000" />
+      <workItem from="1588727031414" duration="496000" />
+      <workItem from="1588729204337" duration="1355000" />
+      <workItem from="1588730735118" duration="1440000" />
+      <workItem from="1592245263719" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="45" key="#Plugins" timestamp="1588727542238">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="302" y="45" key="#Plugins/0.22.1280.751@0.22.1280.751" timestamp="1588727542238" />
+    <state x="256" y="22" key="#Project_Structure" timestamp="1588730388412">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="256" y="22" key="#Project_Structure/0.22.1280.751@0.22.1280.751" timestamp="1588730388412" />
+    <state x="563" y="109" width="439" height="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1588729146695">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="563" y="109" width="439" height="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.22.1280.751@0.22.1280.751" timestamp="1588729146695" />
+    <state width="1208" height="183" key="GridCell.Tab.0.bottom" timestamp="1592245598699">
+      <screen x="0" y="22" width="1280" height="749" />
+    </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.bottom/0.22.1280.749@0.22.1280.749" timestamp="1592245598699" />
+    <state width="1013" height="184" key="GridCell.Tab.0.bottom/0.22.1280.751@0.22.1280.751" timestamp="1588732324187" />
+    <state width="1208" height="183" key="GridCell.Tab.0.center" timestamp="1592245598698">
+      <screen x="0" y="22" width="1280" height="749" />
+    </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.center/0.22.1280.749@0.22.1280.749" timestamp="1592245598698" />
+    <state width="1013" height="184" key="GridCell.Tab.0.center/0.22.1280.751@0.22.1280.751" timestamp="1588732324186" />
+    <state width="1208" height="183" key="GridCell.Tab.0.left" timestamp="1592245598697">
+      <screen x="0" y="22" width="1280" height="749" />
+    </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.left/0.22.1280.749@0.22.1280.749" timestamp="1592245598697" />
+    <state width="1013" height="184" key="GridCell.Tab.0.left/0.22.1280.751@0.22.1280.751" timestamp="1588732324186" />
+    <state width="1208" height="183" key="GridCell.Tab.0.right" timestamp="1592245598698">
+      <screen x="0" y="22" width="1280" height="749" />
+    </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.right/0.22.1280.749@0.22.1280.749" timestamp="1592245598698" />
+    <state width="1013" height="184" key="GridCell.Tab.0.right/0.22.1280.751@0.22.1280.751" timestamp="1588732324187" />
+    <state x="93" y="22" key="SettingsEditor" timestamp="1588726420746">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="93" y="22" key="SettingsEditor/0.22.1280.751@0.22.1280.751" timestamp="1588726420746" />
+    <state x="68" y="22" key="new project wizard" timestamp="1588730379098">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="68" y="22" key="new project wizard/0.22.1280.751@0.22.1280.751" timestamp="1588730379098" />
+    <state x="367" y="97" width="670" height="676" key="search.everywhere.popup" timestamp="1588727533265">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="367" y="97" width="670" height="676" key="search.everywhere.popup/0.22.1280.751@0.22.1280.751" timestamp="1588727533265" />
+  </component>
+</project>
